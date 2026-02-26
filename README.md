@@ -21,8 +21,6 @@ A simple and secure Password Generator built using React.
 
 ## 📸 Screenshot
 
-## 📸 Screenshot
-
 ![Password Generator Screenshot](src/assets/screenshot.png)
 
 ## 📂 Installation
@@ -33,24 +31,14 @@ A simple and secure Password Generator built using React.
 git clone https://github.com/PreshaShrestha4/Password-Genertaor
 ```
 
-2. Navigate to the project folder
-
-```bash
-cd 05passwordgenerator
-```
-
-3. Install dependencies
+2. Install dependencies
 
 ```bash
 npm install
 ```
 
-4. Start development server
+3. Start development server
 
 ```bash
 npm run dev
 ```
-
-## 👩‍💻 Author
-
-Presha Shrestha
